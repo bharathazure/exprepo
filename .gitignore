@@ -2,3 +2,4 @@
 .terraform/
 exprepo/
 terraform.tfstate
+terraform.tfstate.backup
